@@ -1,0 +1,6 @@
+proc/pid/stat
+
+signal
+waitpid (-1,WNOHANG|WUNTRACED
+SIGCHLD
+void (arg int)
